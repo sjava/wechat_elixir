@@ -42,7 +42,7 @@ defmodule Wechat.Mixfile do
   # Type "mix help deps" for more examples and options
   defp deps do
     [
-      {:httpoison, "~> 0.13"},
+      {:httpoison, "~> 1.0"},
       {:jason, "~> 1.0-rc"},
       {:sweet_xml, "~> 0.6.5"},
       {:secure_random, "~> 0.5"},
